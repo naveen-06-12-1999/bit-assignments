@@ -4,5 +4,5 @@ int togglebit(int val,int pos){
     return val;
 }
 int main(){
-    printf("%d",togglebit(28,3));
+    printf("%x",togglebit(0x28,3));
 }

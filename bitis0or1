@@ -1,0 +1,10 @@
+int main()
+{
+    int a=0x65;
+    int pos=5;
+    int bit=(a>>pos)&1;
+    printf("the fifth bit is %d",bit);
+
+    return 0;
+}
+

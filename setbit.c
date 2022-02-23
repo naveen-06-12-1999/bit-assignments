@@ -7,5 +7,5 @@ return val;
 }
 int main()
 {
-    printf("%d",setbit(28,3));
+    printf("%d",setbit(0x28,3));
 }

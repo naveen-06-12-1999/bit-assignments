@@ -6,5 +6,5 @@ return val;
 }
 int main()
 {
-    printf("%d",clearbit(28,3));
+    printf("%d",clearbit(0x28,3));
 }
